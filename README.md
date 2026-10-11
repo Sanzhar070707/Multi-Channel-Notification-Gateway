@@ -8,7 +8,7 @@ This project implements a Multi-Channel Notification Gateway using the **Bridge 
 ## 📊 UML Class Diagram
 The following class diagram illustrates the relationship between the abstraction, refined abstractions, the implementor interface, and concrete senders[cite: 1].
 
->![sdp33.drawio.png](../../%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/sdp33.drawio.png)
+![uml-diagram.png.png](uml-diagram.png.png)
 *Key components identified on the diagram:*
 * **Abstraction:** Base abstract class `Notification`[cite: 1].
 * **Refined Abstraction:** `UrgentNotification`, `EncryptedNotification`, `ScheduledBatchNotification`, `MarketingNotification`[cite: 1].
